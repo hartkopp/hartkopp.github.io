@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="288.08301"
+   height="288.08301"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="hartkopp-net.svg"
+   inkscape:export-filename="/home/hartko/Pictures/hartkopp-net.png"
+   inkscape:export-xdpi="90.033302"
+   inkscape:export-ydpi="90.033302">
+  <title
+     id="title2993">hartkopp.net Logo</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="129.33854"
+     inkscape:cy="149.4283"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1378"
+     inkscape:window-height="914"
+     inkscape:window-x="504"
+     inkscape:window-y="121"
+     inkscape:window-maximized="0"
+     fit-margin-top="2.7755576e-17"
+     fit-margin-left="2.7755576e-17"
+     fit-margin-right="2.7755576e-17"
+     fit-margin-bottom="2.7755576e-17" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>hartkopp.net Logo</dc:title>
+        <dc:date>17-03-2013</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Oliver Hartkopp</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright (c)2001-2013 Oliver Hartkopp</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>hartkopp.net</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>SVG Version of hartkopp.net Logo created by Oliver Hartkopp in 2001. </dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-319.20819,-326.88312)">
+    <g
+       id="g3932">
+      <rect
+         ry="46.497608"
+         y="326.88312"
+         x="319.20819"
+         height="288.08301"
+         width="288.08301"
+         id="rect3086"
+         style="fill:#0092dc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:VAGRounded BT;-inkscape-font-specification:VAGRounded BT"
+         id="path3084-0"
+         d="m 439.94911,440.1143 c 5.69025,-5.18024 2.72112,-2.67685 14.89818,-10.50979 12.71772,-5.15941 23.24119,-6.16775 33.85617,-6.16784 11.25837,0.29595 29.37815,5.01413 37.93088,13.68486 8.55242,8.67103 14.57889,19.66198 14.57889,39.61582 l 0,64.20588 c -2.1e-4,11.416 -2.1888,19.90596 -6.56587,25.47005 -4.3775,5.56401 -11.05273,8.34611 -20.02592,8.34611 -8.97351,0 -15.64885,-2.7821 -20.02592,-8.34611 -4.37739,-5.56409 -6.56609,-14.05405 -6.56588,-25.47005 l 0,-36.10385 c -2.1e-4,-12.95074 -0.24353,-24.16025 -4.73007,-29.62847 -4.37739,-5.56401 -5.65448,-8.34601 -15.83148,-8.3461 -9.63009,9e-5 -16.0288,2.87806 -20.62481,8.6339 -4.59621,5.66006 -6.89417,12.58175 -6.89417,24.76509 l 0,40.67943 c 0,11.416 -2.18869,19.90596 -6.56587,25.47005 -4.37739,5.56401 -11.76692,8.34611 -20.7402,8.34611 -8.9734,0 -15.64874,-2.7821 -20.02592,-8.34611 -4.26792,-5.56409 -6.40178,-14.05405 -6.40178,-25.47005 l 0,-144.73254 c 0,-11.51169 2.13386,-20.04962 6.40178,-25.6139 4.37718,-5.56381 11.05252,-8.34583 20.02592,-8.3461 8.97328,2.7e-4 16.36281,2.83026 20.7402,8.49004 4.37718,5.66016 6.56587,14.1502 6.56587,25.46996 l 0,17.90361"
+         sodipodi:nodetypes="ccccsccsccccccsscscsscccsc" />
+    </g>
+  </g>
+</svg>

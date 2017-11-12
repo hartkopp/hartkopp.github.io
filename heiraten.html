@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html dir="ltr"><head>
+  
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+  <title>Andrea &amp; Olli heiraten!</title>
+
+  
+  
+  <meta content="Oliver" name="author">
+
+</head><body style="color: rgb(204, 204, 204); background-color: black;" alink="#3333ff" link="#3333ff" vlink="#cc33cc">
+<br>
+
+<br>
+
+<br>
+
+<div style="text-align: center;"><a><img style="border: 0px solid ; width: 640px; height: 480px;" alt="Blinkenherz groß" src="img/herzanibig.gif"></a><br>
+</div>
+
+<br>
+
+<br>
+
+<div style="text-align: center;"> <span id="c1" style="font-family: arial; font-style: normal; font-variant: normal; font-weight: bold; font-size: 30px; line-height: normal; font-size-adjust: none; font-stretch: normal; color: rgb(255, 255, 66);"></span><br>
+<span id="c2" style="font-family: arial; font-style: normal; font-variant: normal; font-weight: bold; font-size: 25px; line-height: normal; font-size-adjust: none; font-stretch: normal; color: rgb(255, 255, 66);">;</span><br>
+<small style="color: rgb(255, 255, 102);"><br>
+Glück seit dem 22 Mai 2010 / 14:30 Uhr</small>
+</div>
+<script type="text/javascript">
+// Erstellt mit dem Countdown-Generator - Homepage-Total.de
+var end = new Date('May 22, 2010 14:30:00');
+function toSt2(n) {
+  var s = '';
+  if (n < 10) s += '0';
+  return (s + n).toString();
+}
+function toSt3(n) {
+  var s = '';
+  if (n < 10) s += '00';
+  else if (n < 100) s += '0';
+  return (s + n).toString();
+}
+function countdown() {
+  var d = new Date();
+  // Aus Countdown mach' Countup seit Hochzeit: Einfach d.getTime() und end.getTime() vertauscht :-) 
+  var count = Math.floor(d.getTime() - end.getTime());
+  if(count > 0) {
+    var miliseconds = toSt3(count%1000); count = Math.floor(count/1000);
+    var seconds = toSt2(count%60); count = Math.floor(count/60);
+    var minutes = toSt2(count%60); count = Math.floor(count/60);
+    var hours = toSt2(count%24); count = Math.floor(count/24);
+    var days = count;
+    document.getElementById('c1').innerHTML = days + ' TAGE';
+    document.getElementById('c2').innerHTML = hours + ':' + minutes + ':' + seconds
+    setTimeout('countdown()', 100);
+  }
+}
+countdown();
+</script>
+<br>
+<div style="text-align: center;"><big style="color: rgb(204, 204, 204);"><big><big><big><a href="perform.html"><small><small><small>Performe Dein eigenes
+Herzchen mit
+SocketCAN!</small></small></small></a></big></big></big></big><br>
+</div>
+</div>
+
+</body></html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html dir="ltr"><head>
+
+  
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type"><title>Perform Dein SocketCAN Herzchen</title>
+  
+
+  
+  
+  <meta content="Oliver" name="author"></head><body>
+<div style="text-align: center;"><big><big>Ok, dieses Herzchen ist natürlich wunderschön ...</big></big><br>
+<br>
+<img style="width: 192px; height: 144px;" alt="Das kleine rote Herzchen" src="img/rotesherz.gif"><br>
+<br>
+<big><big>... aber warum ist es gerade 64x48 Pixel groß?<br>
+</big></big></div>
+<br>
+<br>
+<big>Die Auflösung dieser spannenden Frage:<br>
+</big>
+<ul>
+  <li><big>Man nehme CAN Utils vom <a href="https://github.com/linux-can/can-utils">SocketCAN git Repository</a> (runterladen und 'make' sagen) - alternativ unter Debian/Ubuntu: apt-get install can-utils<br>
+    </big></li>
+  <li><big>Erzeuge mindestens einen <a href="https://www.kernel.org/doc/Documentation/networking/can.txt">virtuellen CAN Bus</a> vcan0 unter Linux 2.6.25+<br>
+mit "ip link add dev vcan0 type vcan"</big></li>
+  <li><big>Lade diese CAN Logdatei <a href="logs/wirheiraten.log">wirheiraten.log</a> herunter</big></li>
+  <li><big>Im ersten Terminal jetzt "canplayer -li -I wirheiraten.log" eintippen</big></li>
+  <li><big>Das zweite Terminal sollte wenigstens 55 Zeilen anzeigen können, also großziehen<br>
+    </big></li>
+  <li><big>Im zweiten Terminal jetzt "cansniffer -c -b vcan0" eingeben</big></li>
+  <li><big>Staunen :-)</big></li>
+</ul>
+<div style="text-align: center;"><big>Nun mag man sich fragen, wie kommt man als Tastentipper nur auf so eine bekloppte Idee?</big><br>
+<br>
+<big><big>Aus wahrer Liebe natürlich ;-)</big><br>
+</big></div>
+<big><br>
+Eines Abends, das Laptop wärmte den Bauch, Frauke Ludowig grinste aus der Glotze, und Olli mailt so auf der <a href="http://vger.kernel.org/vger-lists.html#linux-can">SocketCAN Mailingliste</a> herum.<br>
+<br>
+Da sagt die Andrea:<br>
+<br>
+</big>
+<div style="text-align: center;"><big>"Immer schreibst Du nur dem Wolfgang, dem Patrick und dem Robert. Programmierst dauernd an diesem CAN Zeug rum."</big><br>
+</div>
+<big><br>
+</big>
+<div style="text-align: center;"><big style="font-style: italic;"><big>Programmier doch mal was für mich!</big></big><br>
+</div>
+<big><br>
+Oh, snap! Was tun?<br>
+<br>
+Nix Ahnung, wie man GUI's programmiert, oder irgendwas anders, was man 'sehen' kann.<br>
+<br>
+Dann morgens (unter der Dusche) die Idee: Der <a href="https://github.com/linux-can/can-utils/blob/master/cansniffer.c">cansniffer</a> soll's richten.<br>
+<br>
+Also flugs einen karrierten Zettel geschnappt, ein 8x8 Feld aufgemalt, ein wenig Binärwerte im Kopf addiert und diese Logdatei <a href="logs/heart_for_andrea.log">heart_for_andrea.log</a> mit dem Emacs erstellt.<br>
+<br>
+Und was soll ich sagen: Ein Erfolg auf ganzer Linie!<br>
+<br>
+</big>
+<div style="text-align: center;"><big><big>Andrea glücklich!</big><br>
+<br>
+<big>Und ich habe nebenbei das weltweit erste SocketCAN-Art kreiert!</big></big><br>
+</div>
+<big><br>
+Ich bin ein Künstler ... snief.<br>
+</big><br>
+
+
+</body></html>
